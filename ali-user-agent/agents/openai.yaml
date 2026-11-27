@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿里用户 Agent"
+  short_description: "基于用户资料构建可对话、可模拟任务的情境用户 Agent"
+  default_prompt: "使用 $ali-user-agent 开始阿里用户 Agent 流程，先询问我目前能提供哪些用户资料。"

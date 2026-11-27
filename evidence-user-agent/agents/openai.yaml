@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实用户 Agent"
+  short_description: "从真实用户资料中提炼有证据支撑的用户画像与研究结论"
+  default_prompt: "使用 $evidence-user-agent 开始真实用户 Agent 流程，先询问我目前能提供哪些用户资料。"
